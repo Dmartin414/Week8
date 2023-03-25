@@ -1,0 +1,19 @@
+body {
+    margin: 1rem 5rem 1rem 5rem;
+    text-align: center;
+    background-color: #045c23
+}
+
+h1 {
+    text-align: center;
+    filter: drop-shadow(2px 2px 1px #0f9e54);
+    font-size: 150px;
+}
+
+div {
+    font-size: 20px;
+}
+
+p {
+    font-size: 25px;
+}
